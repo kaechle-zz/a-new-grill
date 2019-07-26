@@ -1,0 +1,29 @@
+# packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# logs and databases
+*.log
+*.sql
+*.sqlite
+
+# os files
+.vscode
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# node cruft
+node_modules/
+package.json
+package-lock.json
